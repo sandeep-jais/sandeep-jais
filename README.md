@@ -1,4 +1,4 @@
-# Hi there, I'm Sandeep Jais! 👋
+# Hi there, I'm Sandeep Jaiswal! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandeep-jais&color=brightgreen)
 
@@ -25,17 +25,17 @@ I am a passionate software developer with a strong interest in web development, 
 
 Here are some of my notable projects:
 
-1. **[Project Name](https://github.com/sandeep-jais/project-name)**
-   - Description: A brief description of the project.
-   - Technologies: List of technologies used.
+1. **[Photo Filters](https://github.com/sandeep-jais/project-name)**
+   - Description: In this project i have created filters using python library.
+   - Technologies: Python.
 
-2. **[Project Name](https://github.com/sandeep-jais/project-name)**
-   - Description: A brief description of the project.
-   - Technologies: List of technologies used.
+2. **[Sarkari Exam](https://github.com/sandeep-jais/project-name)**
+   - Description: Creating a clone of sarkari exam..
+   - Technologies: HTML, CSS, JAVASCRIPT.
 
-3. **[Project Name](https://github.com/sandeep-jais/project-name)**
-   - Description: A brief description of the project.
-   - Technologies: List of technologies used.
+3. **[RFID](https://github.com/sandeep-jais/project-name)**
+   - Description: attendance based on machine fingerprint.
+   - Technologies: NodeJS, mongodb.
 
 ## GitHub Stats
 
