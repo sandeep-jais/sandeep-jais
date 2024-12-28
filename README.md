@@ -11,7 +11,7 @@ I am a passionate software developer with a strong interest in web development, 
 - 🌱 Currently learning ReactJS, NodeJS etc.
 - 🤝 Open to collaborating on exciting projects
 - 💬 Ask me about anything related to software development
-- 📫 How to reach me: [Your Email](mailto:sandeepmukundpur8@gmail.com)
+- 📫 How to reach me: [sandeepmukundpur8@gmail.com](mailto:sandeepmukundpur8@gmail.com)
 
 ## Skills and Technologies
 
