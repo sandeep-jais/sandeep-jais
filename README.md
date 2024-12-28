@@ -6,12 +6,12 @@
 
 I am a passionate software developer with a strong interest in web development, machine learning, and open-source contributions. I love solving complex problems and continuously learning new technologies.
 
-- 💻 Currently working on [Current Project/Company]
-- 🎓 Graduated from [Your University/School]
-- 🌱 Currently learning [New Technology/Skill]
+- 💻 Currently working on React Project.
+- 🎓 Graduated from BBS College of Engineering & Technology
+- 🌱 Currently learning ReactJS, NodeJS etc.
 - 🤝 Open to collaborating on exciting projects
 - 💬 Ask me about anything related to software development
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Your Email](mailto:sandeepmukundpur8@gmail.com)
 
 ## Skills and Technologies
 
